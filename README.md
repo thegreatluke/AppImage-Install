@@ -3,7 +3,7 @@ Script to install AppImages
 
 usage: 
 
-`./app-image-install.sh  ~/Downloads/my-appimage.AppImage"`
+`./appimage-install.sh  ~/Downloads/my-appimage.AppImage"`
 
 ---
 
